@@ -1,0 +1,16 @@
+{
+  "documents": {
+    "c3cc04d834582f5091344717778ac3e58193da0dc1de29c6557621639ca0a221": {
+      "file_hash": "c3cc04d834582f5091344717778ac3e58193da0dc1de29c6557621639ca0a221",
+      "filename": "AI_Document_Test_Contract_Amended.pdf",
+      "path": "C:\\Users\\first\\OneDrive\\Desktop\\25\\prooo\\data\\uploads\\AI_Document_Test_Contract_Amended.pdf",
+      "chunk_count": 6
+    },
+    "efd0798cf0beab163567ad2aab6c29eb34a9670342ea393167e2461cc92db016": {
+      "file_hash": "efd0798cf0beab163567ad2aab6c29eb34a9670342ea393167e2461cc92db016",
+      "filename": "AI_Document_Test_Contract_Original.pdf",
+      "path": "C:\\Users\\first\\OneDrive\\Desktop\\25\\prooo\\data\\uploads\\AI_Document_Test_Contract_Original.pdf",
+      "chunk_count": 6
+    }
+  }
+}
