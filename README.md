@@ -244,13 +244,9 @@ pytest
 
 # 📸 Demo
 
-No screenshots, GIFs, or demo videos are included in the project files yet.
 
-To add them later, place the images in a folder such as `docs/screenshots/` and reference them here, for example:
+<img width="1882" height="846" alt="image" src="https://github.com/user-attachments/assets/55bf4577-7c54-45a0-a241-f17e70fd7c61" />
 
-```markdown
-![Chat tab](docs/screenshots/chat.png)
-```
 
 ---
 
